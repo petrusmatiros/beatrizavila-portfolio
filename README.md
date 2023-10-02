@@ -5,6 +5,8 @@
 ## Table of Contents
 - [Website URL](#website-url)
 - [Project description](#project-description)
+  
+<img width="1425" alt="Home page" src="https://github.com/petrusmatiros/beatrizavila-portfolio/assets/75120626/3cee5381-a2b1-41a9-a69d-061bc6f29ada">
 
 ## Website URL
 https://beatrizavila.framer.website/
